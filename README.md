@@ -8,7 +8,7 @@ I am a Senior Data Scientist, who is passionate about creating **Data-Driven Sys
 
 I have a Ph.D. in Computer Science and I love working with multi-disciplinary teams to create innovative technologies for learners from all ages and backgrounds. 
 
-Some languages/technologies I enjoy working with are  **MLOps, Data Science, and of course Python!** :)  
+Some languages/technologies I enjoy working with are  **Agentic AI, LLMs, Data Science, and of course Python!** :)  
 
 ## Let's Connect! 🤝
 
