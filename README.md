@@ -4,7 +4,7 @@
 
 <!--  <a href="https://github.com/mckolu/mckolu/blob/main/python.jpg"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/python.jpg"></a> -->
 
-I am a Senior Data Scientist, who is passionate about creating **Data-Driven Systems** and **Intelligent AI Applications**. 👨🏻‍💻
+I am a Principal Data Scientist, who is passionate about creating **Data-Driven Systems** and **Intelligent AI Applications**. 👨🏻‍💻
 
 I have a Ph.D. in Computer Science and I love working with multi-disciplinary teams to create innovative technologies for learners from all ages and backgrounds. 
 
